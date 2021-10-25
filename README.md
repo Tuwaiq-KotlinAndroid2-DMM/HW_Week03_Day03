@@ -1,4 +1,4 @@
-# HW_Week03_Day02
+# HW_Week03_Day03
 The Home Work has to be delievered before 9AM ⚠️
 
 # Instructions 📋
