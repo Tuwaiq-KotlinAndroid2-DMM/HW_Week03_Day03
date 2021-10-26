@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HwWeek3Day3</string>
+    <string name="Title">Delete item</string>
+    <string name="Message">Do you want to delete the item?</string>
+</resources>
