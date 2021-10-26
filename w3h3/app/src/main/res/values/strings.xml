@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">w3h3</string>
+    <string name="titel">Delete Item</string>
+    <string name="message">Do you want to delete the item?</string>
+    <string name="yes">yes</string>
+    <string name="no">No</string>
+</resources>
