@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DeleteItemDialog</string>
+    <string name="alertTitle">Delete item</string>
+    <string name="alertMessage">Do you want to delete the item?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
