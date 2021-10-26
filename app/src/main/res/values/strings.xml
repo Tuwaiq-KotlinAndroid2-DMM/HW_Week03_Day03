@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW_Week03_Day03</string>
+    <string name="negative_en">No</string>
+    <string name="positive_en">Yes</string>
+    <string name="message_en">\"Do you want to delete Item: \"</string>
+    <string name="title_en">Delete Item</string>
+</resources>
