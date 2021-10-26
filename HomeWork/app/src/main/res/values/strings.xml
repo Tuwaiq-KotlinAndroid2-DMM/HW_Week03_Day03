@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeWork</string>
+    <string name="message">Are you sure you want to delete this item?</string>
+    <string name="mess">Delete Item</string>
+    <string name="yes">YES</string>
+    <string name="no">No</string>
+</resources>
