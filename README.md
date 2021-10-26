@@ -23,5 +23,4 @@ Step 3:
 
 
 
-# Learning Resources  📚
 
