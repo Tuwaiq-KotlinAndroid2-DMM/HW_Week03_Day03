@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeworkW3Day3Dialog</string>
+    <string name="exit" />
+    <string name="DoYouWantToDeleteTheItem">Do you wan to delete the item?</string>
+    <string name="yes">yes</string>
+    <string name="no">No</string>
+</resources>
