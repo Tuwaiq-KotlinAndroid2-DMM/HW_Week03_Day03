@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hw.w3d3</string>
+    <string name="title">Delet Item</string>
+    <string name="masseg">Do you want to delet Item?</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+</resources>
