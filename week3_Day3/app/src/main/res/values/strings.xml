@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">week3_Day3</string>
+    <string name="Dialog_Massage">Do you want to Delete?</string>
+    <string name="Yes">Yes</string>
+    <string name="Delete">Delete</string>
+    <string name="No">No</string>
+    <string name="CantSay">Can\'t Say</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+</resources>
