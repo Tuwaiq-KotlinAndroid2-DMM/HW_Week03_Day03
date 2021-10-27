@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My ApplicationHWWEN</string>
+    <string name="Exit">Exit</string>
+    <string name="do">Do You Want To Delete The Item</string>
+    <string name="y">yes</string>
+    <string name="n">no</string>
+</resources>
